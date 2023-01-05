@@ -1,5 +1,15 @@
 # @blitzjs/auth
 
+## 2.0.0-beta.22
+
+### Minor Changes
+
+- fddb9fe: fix failed localStorage access to not crash the application
+
+### Patch Changes
+
+- blitz@2.0.0-beta.22
+
 ## 2.0.0-beta.21
 
 ### Patch Changes
